@@ -669,7 +669,7 @@ a.color1:hover {
 .input_button {
   padding: 1em 1em;
    display: flex;
-   background-color: #8fdea5;
+   background-color: #ec9e9e;
    width: 10em;
    text-decoration: none;
    border-radius: 0.5em;
@@ -687,7 +687,7 @@ a.color1:hover {
 }
 
 .input_button:hover {
-   background-color: #83cb97;
+   background-color: #ec9e9e;
  transform: translateY(-5px);
 }
 .main_block_block1_input{
