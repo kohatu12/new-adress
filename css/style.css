@@ -674,8 +674,6 @@ a.color1:hover {
    text-decoration: none;
    border-radius: 0.5em;
    font-size: 0.4em;
-   transition: background-color 0.3s ease;
-   transition: transform 0.3s ease;
    margin-left: 1em;
    cursor: pointer;
    align-items: center;
