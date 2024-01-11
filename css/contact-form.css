@@ -29,7 +29,7 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   margin: 0;
-  background-color: #c9cbd4;
+  background-color: #a6bdd7;
 }
 #contact-form textarea {
   width: 100%;
@@ -46,7 +46,7 @@
   resize: none;
   color: #363535;
   height: 202px;
-  background-color: #c9cbd4;
+  background-color: #a6bdd7;
 }
 
 
