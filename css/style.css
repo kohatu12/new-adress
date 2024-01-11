@@ -88,7 +88,7 @@ sss * {
 body {
   position: relative;
   background: #1e2439;
-  color: white;
+  color: #363535;
   font: 300 18px/24px 'Open Sans', sans-serif;
 }
 .ic {
@@ -149,7 +149,7 @@ ul {
 }
 .list-1 li .count {
   background-color: #ec9e9e;
-  color: white;
+  color: #1e2439;
   display: inline-block;
   width: 47px;
   height: 47px;
@@ -669,11 +669,13 @@ a.color1:hover {
 .input_button {
   padding: 1em 1em;
    display: flex;
-   background-color:#ec9e9e ;
+   background-color: #8fdea5;
    width: 10em;
    text-decoration: none;
    border-radius: 0.5em;
    font-size: 0.4em;
+   transition: background-color 0.3s ease;
+   transition: transform 0.3s ease;
    margin-left: 1em;
    cursor: pointer;
    align-items: center;
@@ -685,7 +687,7 @@ a.color1:hover {
 }
 
 .input_button:hover {
-   background-color: #ec9e9e;
+   background-color: #83cb97;
  transform: translateY(-5px);
 }
 .main_block_block1_input{
