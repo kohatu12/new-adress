@@ -71,7 +71,7 @@
 .sf-menu > li.sfHover > a,
 .sf-menu > li.current > a,
 .sf-menu > li > a:hover {
-  color: #ec9e9e;
+  color: #5ab9c8;
 }
 
 
@@ -148,7 +148,7 @@ ul {
   padding-top: 16px;
 }
 .list-1 li .count {
-  background-color: #ec9e9e;
+  background-color: #5ab9c8;
   color: #1e2439;
   display: inline-block;
   width: 47px;
@@ -171,7 +171,7 @@ ul {
 }
 .list-2 li {
   padding-left: 42px;
-  color: #ec9e9e;
+  color: #5ab9c8;
   position: relative;
 }
 .list-2 li:after {
@@ -198,7 +198,7 @@ a {
   transition: 0.5s ease;
 }
 a:hover {
-  color: #ec9e9e;
+  color: #5ab9c8;
 }
 .link-1 {
   display: inline-block;
@@ -207,13 +207,13 @@ a:hover {
   margin-top: 5px;
 }
 .link-1:hover {
-  color: #ec9e9e;
+  color: #5ab9c8;
 }
 .link-1.white {
   margin-top: 33px;
 }
 .link-1.white:hover {
-  color: #ec9e9e;
+  color: #5ab9c8;
 }
 
 
@@ -354,13 +354,13 @@ h1:after {
   margin-top: -106px;
   margin-bottom: 86px;
   text-align: center;
-  background-color: #c7c7c7;
+  background-color: #067c96;
 }
 .banner .banner_title {
   display: block;
   font: 48px/52px 'Marvel', sans-serif;
   color: #ffffff;
-  background-color: #ec9e9e;
+  background-color: #5ab9c8;
   padding: 39px 0 75px;
   position: relative;
 }
@@ -377,11 +377,11 @@ h1:after {
 .banner a.banner_title:hover {
   background-color: #1e2439;
 }
-.banner img {
+.banner img { 
   padding: 77px 0;
 }
 .block-1 {
-  background-color: #5c627c;
+  background-color: #067c96;
   padding-bottom: 85px;
   margin-bottom: 57px;
 }
@@ -478,7 +478,7 @@ h1:after {
   font-size: 36px;
   line-height: 52px;
   font-weight: normal;
-  background-color: #ec9e9e;
+  background-color: #5ab9c8;
   text-align: center;
   padding-top: 96px;
 }
@@ -499,7 +499,7 @@ h1:after {
 }
 .banner-1 {
   margin-top: 16px;
-  background-color: #ec9e9e;
+  background-color: #5ab9c8;
   text-align: center;
   margin-bottom: 85px;
 }
@@ -512,7 +512,7 @@ h1:after {
 }
 .banner-2 {
   margin-top: 57px;
-  background-color: #ec9e9e;
+  background-color: #5ab9c8;
   color: #ffffff;
 }
 .banner-2 .banner-2_bot {
@@ -565,7 +565,7 @@ h1:after {
   margin-bottom: 11px;
 }
 .color1 {
-  color: #ec9e9e;
+  color: #5ab9c8;
 }
 .color1 a:hover,
 a.color1:hover {
@@ -619,7 +619,7 @@ a.color1:hover {
   padding-top: 51px;
 }
 #footer .sub-copy a:hover {
-  color: #ec9e9e;
+  color: #5ab9c8;
 }
 #toTop {
   display: none;
@@ -639,7 +639,7 @@ a.color1:hover {
   z-index: 20;
   -webkit-transition: background 0.5s ease;
   transition: background 0.5s ease;
-  background-color: #ec9e9e;
+  background-color: #5ab9c8;
 }
 #toTop:hover {
   outline: none;
@@ -669,7 +669,7 @@ a.color1:hover {
 .input_button {
   padding: 1em 1em;
    display: flex;
-   background-color: #ec9e9e;
+   background-color: #f2a249;
    width: 10em;
    text-decoration: none;
    border-radius: 0.5em;
@@ -687,7 +687,7 @@ a.color1:hover {
 }
 
 .input_button:hover {
-   background-color: #ec9e9e;
+   background-color: #f2a249;
  transform: translateY(-5px);
 }
 .main_block_block1_input{
